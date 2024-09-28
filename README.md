@@ -1,2 +1,2 @@
-# CollectionFunctions-UnrealEngine-C-
+# CollectionFunctions-UnrealEngine
 A collection of functions created for unreal engine in C++
