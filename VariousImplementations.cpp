@@ -25,3 +25,4 @@ int AFirstPersonController::Raycast() {
 
 	return -1; //If returns -1 means the raycast was not casted (it will probably never happen if things are working well)
 }
+
