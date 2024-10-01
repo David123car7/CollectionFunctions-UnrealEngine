@@ -13,6 +13,8 @@ To use the code just replace the "AFirstPersonController" for your class
 #pragma region Acessing a class from a different class
 
 #pragma region .header file
+#include "Kismet/GameplayStatics.h"
+
 UPROPERTY() AFirstPersonController* firstPersonController;
 #pragma endregion
 
