@@ -1,7 +1,7 @@
 /*
 THIS IS NOT A FILE WITH FUNCTIONS
 
-This file contains examples of implementations in C++ that can be useful to lear & use.
+This file contains examples of implementations in C++ that can be useful to learn & use.
  */
 
 
